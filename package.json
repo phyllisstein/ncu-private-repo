@@ -1,0 +1,16 @@
+{
+  "name": "ncu-private-repo",
+  "version": "0.0.0",
+  "license": "GPL-3.0-or-later",
+  "packageManager": "yarn@3.1.1",
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "./bin/test.cjs"
+  },
+  "dependencies": {
+    "@fortawesome/pro-solid-svg-icons": "5.1.0",
+    "npm-check-updates": "^12.2.1"
+  }
+}
